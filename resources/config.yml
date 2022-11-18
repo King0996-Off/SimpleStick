@@ -1,0 +1,31 @@
+#██╗░░██╗██╗███╗░░██╗░██████╗░░█████╗░░█████╗░░█████╗░░█████╗░
+#██║░██╔╝██║████╗░██║██╔════╝░██╔══██╗██╔══██╗██╔══██╗██╔═══╝░
+#█████═╝░██║██╔██╗██║██║░░██╗░██║░░██║╚██████║╚██████║██████╗░
+#██╔═██╗░██║██║╚████║██║░░╚██╗██║░░██║░╚═══██║░╚═══██║██╔══██╗
+#██║░╚██╗██║██║░╚███║╚██████╔╝╚█████╔╝░█████╔╝░█████╔╝╚█████╔╝
+#╚═╝░░╚═╝╚═╝╚═╝░░╚══╝░╚═════╝░░╚════╝░░╚════╝░░╚════╝░░╚════╝░
+
+# /STICK CONFIG
+
+#The id of the stick
+#Default = slime ball
+StickId: 341
+
+#The cooldown in second between each use
+StickCooldown: 10
+
+#The effect of the stick
+Effect: INSTANT_HEALTH
+
+#The duration of the effect
+#The time need to be in second/s
+EffectDuration: 1
+
+# /MESSAGE CONFIG
+
+#The message when you get heal
+HealMessage: "You have been healed"
+
+#The message when there is still the cooldown
+# {time} = remaining time
+RemainingTimeMessage: "You have to wait for {time} second/s."
