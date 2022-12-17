@@ -5,4 +5,4 @@ A simple stick plugin fully customizable for pocketmine 4.0.0+.
 - Cooldown
 - Message
 - Effect and Duration
-- Stick Item
+- Item
