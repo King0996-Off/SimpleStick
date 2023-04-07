@@ -1,9 +1,0 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/King0996-Off/SimpleStick
-build-by-default: true
-branches:
-- main
-projects:
-  SimpleStick:
-    path: ""
-    icon: icon.png
-...
